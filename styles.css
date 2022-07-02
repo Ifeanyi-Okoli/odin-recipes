@@ -1,0 +1,20 @@
+div{
+    color:blue;
+    background-color:green;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    font-weight: 600;
+    text-decoration-color: blanchedalmond;
+}
+
+p{
+    text-decoration-color: blanchedalmond;
+    background-color: green;
+    font-size: medium;
+}
+
+button{
+    background-color: orange;
+    font-size: medium;
+}
